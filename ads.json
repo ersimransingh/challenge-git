@@ -1,15 +1,4 @@
 {
-    "this": {
-        "projectName": "this",
-        "description": "this",
-        "type": "community",
-        "author": "ersimransingh",
-        "version": "0.0.1",
-        "authorWebsite": "https://github.com/ersimransingh/challenge-git",
-        "githubUri": "https://github.com/ersimransingh/challenge-git",
-        "license": "MIT",
-        "lastUpdated": "1681272436419"
-    },
     "simran_project": {
         "projectName": "simran_project",
         "description": "simran_project",
