@@ -20,5 +20,16 @@
         "githubUri": "https://github.com/ersimransingh/challenge-git",
         "license": "MIT",
         "lastUpdated": "1681985165757"
+    },
+    "simran_check_project": {
+        "projectName": "simran_check_project",
+        "description": "simran_project",
+        "type": "community",
+        "author": "ersimransingh",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/ersimransingh/challenge-git",
+        "githubUri": "https://github.com/ersimransingh/challenge-git",
+        "license": "MIT",
+        "lastUpdated": "1683200486555"
     }
 }
